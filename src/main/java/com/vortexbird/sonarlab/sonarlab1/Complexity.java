@@ -15,6 +15,7 @@ public class Complexity {
 				for (int j2 = 0; j2 < j; j2++) {
 					if (j2 % 2 != 0) {
 						calcular();
+						
 					}
 				}
 
